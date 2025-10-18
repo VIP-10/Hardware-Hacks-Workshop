@@ -20,4 +20,4 @@ Explain how to use your project
 
 ## External hardware
 
-Seven segment display, pushbuttons, slideswitch, resistor
+No external hadrware is used
