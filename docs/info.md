@@ -16,7 +16,6 @@ Toggle the input switches (the left-side green blocks) and watch what happens on
 Replace the inverters with your own logic: for example, make a small gate network that implements a function (e.g., A AND B, or a 2-to-4 decoder).
 
 Use a 7-segment display if available in the template to show numbers/letters based on inputs (there are example tutorials of BCD to 7-segment decoding)
-Explain how to use your project
 
 ## External hardware
 
